@@ -1,0 +1,11 @@
+----nachdem man alles gemacht hat was in constant und System geht: 
+
+gmshToFoam name.msh  (mesh muss in ASCII 2 Format gespeichert werden über Export)
+
+transformPoints "scale=(0.001 0.001 0.001)" (mm --> m) 
+
+
+---- polymesh Folder appears
+
+
+frontAndBack type empty --> 3D -> 2D 
