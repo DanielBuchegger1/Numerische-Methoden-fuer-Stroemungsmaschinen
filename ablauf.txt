@@ -16,3 +16,6 @@ frontAndBack type empty --> 3D -> 2D
 
 
 ------- simpleFoam (startet sim)
+
+
+-----touch open.foam (diese datei dann in paraview öffnen) 
