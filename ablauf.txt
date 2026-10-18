@@ -5,7 +5,14 @@ gmshToFoam name.msh  (mesh muss in ASCII 2 Format gespeichert werden über Expor
 transformPoints "scale=(0.001 0.001 0.001)" (mm --> m) 
 
 
+
+
+
 ---- polymesh Folder appears
 
 
 frontAndBack type empty --> 3D -> 2D 
+
+
+
+------- simpleFoam (startet sim)
